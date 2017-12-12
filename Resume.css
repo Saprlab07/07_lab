@@ -1,0 +1,136 @@
+html {
+    background-color: aliceblue;
+}
+
+p {
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    font-family: arial;
+    font-size: 21px; 
+    color: gray;
+}
+
+#cv{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    height: 600px;
+    width: 600px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 4px;
+    
+}
+
+#data {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+}
+
+#email,#surname,#name {
+    padding: 8px;
+    width: 250px;
+    font-size: 15px;
+  
+}
+
+h4 {
+    position: absolute;
+    top: 170px;
+    left: 190px;
+    font-family: arial;
+    
+}
+
+#file {
+    position: absolute;
+    top: 230px;
+    left: 190px;
+}
+
+#format {
+    position: absolute;
+    font-size: 12px;
+    top: 244px;
+    left: 190px
+    
+    
+}
+
+h3{
+    font-family: arial;
+    font-size: 18px;
+    
+}
+
+#English {
+    font-family: arial;
+}
+
+#languages {
+    position: absolute;
+    top: 300px;
+    left: 150px
+}
+
+#select {
+    position: absolute;
+    top: 85px;
+    padding: 7px;
+    font-size: 16px;
+    width: 200px;
+}
+
+#send {
+    position: absolute;
+    top: 480px;
+    left: 150px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: arial;
+    border-style: solid;
+    border-color: white;
+    padding: 7px;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+}
+
+#cancel {
+    position: absolute;
+    top: 493px;
+    left: 350px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: arial;
+    color: gray;
+}
+footer{
+    position: absolute;
+    top: 850px;
+    left: 0px;
+    height: 120px;
+    width: 7000px;
+    background-color: deepskyblue;
+}
+
+#foot {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    font-size: 22px;
+    color: white;
+    font-family: monospace;
+    font-weight: 800;
+    letter-spacing: 4px;
+}
+
+#nulp {
+    position: absolute;
+    left: 1000px;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 14px;
+}

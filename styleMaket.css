@@ -1,0 +1,184 @@
+
+#head {
+   position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 130px;
+    width: 7000px;
+    background-color: deepskyblue;
+
+}
+
+#href1 {
+    position: absolute;
+    left: 1070px;
+    top: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+#reg {
+    position: absolute;
+    top: 30px;
+    left: 1150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 340px;
+    font-family: monospace;
+    font-style: oblique;
+    color: white;
+}
+
+#first{
+    position: absolute;
+    top: 70px;
+    left: 440px;
+    font-size: 17px;
+    font-family: monospace;
+    font-style: oblique;
+    color: white;
+}
+
+#label1 {
+    position: absolute;
+    top: 118px;
+    left: 250px;
+    font-size: 17px;
+    font-family: monospace;
+    font-weight: 600;
+}
+
+#input1 {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: deepskyblue;
+    width: 250px;
+    height: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 105px;
+    left: 400px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#href2 {
+    position: absolute;
+    top: 100px;
+    left: 700px;
+    font-size: 17px;
+    font-family: Comic Sans MS;
+    color: white;
+    padding: 10px;
+    background-color: deepskyblue;
+    border-style: solid;
+    border-color: white;
+    border-radius: 7px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+#employer {
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    color: white;
+    font-size: 17px;
+    font-style: oblique;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+#href3 {
+    position: absolute;
+    top: 200px;
+    left: 405px;
+    padding: 10px;
+    font-size: 17px;
+    font-family: monospace;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+}
+
+
+#profile {
+    position: absolute;
+    top: 270px;
+   left: 405px;
+   padding: 10px;
+    font-size: 17px;
+    font-family: monospace;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+}
+
+#mainBlock {
+    position: absolute;
+    top: 130px;
+    left: 0px;
+    height: 900px;
+    width: 7000px;
+    background-image: url(https://nz4.ru/wp-content/uploads/2014/12/94.jpg)
+}
+
+footer{
+    position: absolute;
+    top: 1000px;
+    left: 0px;
+    height: 100px;
+    width: 7000px;
+    background-color: deepskyblue;
+    
+}
+
+#foot {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    font-size: 22px;
+    color: white;
+    font-family: monospace;
+    font-weight: 800;
+    letter-spacing: 4px;
+}
+
+#nulp {
+    position: absolute;
+    left: 1000px;
+    color: white;
+    letter-spacing: 3px;
+}

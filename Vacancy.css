@@ -1,0 +1,181 @@
+html {
+    background-color: aliceblue;
+}
+
+#head {
+   position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 130px;
+    width: 7000px;
+    background-color: deepskyblue;
+
+}
+
+#href1 {
+    position: absolute;
+    left: 1070px;
+    top: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+#reg {
+    position: absolute;
+    top: 30px;
+    left: 1150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 340px;
+    font-family: monospace;
+    font-style: oblique;
+    color: white;
+}
+
+#first{
+    position: absolute;
+    top: 70px;
+    left: 440px;
+    font-size: 17px;
+    font-family: monospace;
+    font-style: oblique;
+    color: white;
+}
+
+#returnCat {
+    position: absolute;
+    top: 155px;
+    left: 80px;
+    font-size: 15px;
+    font-family: monospace;
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+    border-color: lightgray;
+    text-decoration: none;
+    color: black;
+}
+
+#Intellias1 {
+    position: absolute;
+    top: 210px;
+    left: 120px;
+}
+
+#info {
+    position: absolute;
+    top: 210px;
+    left: 120px;
+    width: 747px;
+    height: 1000px;
+    border-style: solid;
+    border-color: lightgray;
+    
+}
+
+#descript {
+    position: absolute;
+    top: 298px;
+    height: 60px;
+    width: 747px;
+    background-color: forestgreen;
+}
+
+#name {
+    position: absolute;
+    left: 170px;
+    font-family: arial;
+    font-size: 19px;
+    color: white;
+}
+
+h4 {
+    position: absolute;
+    top: 380px;
+    left: 20px;
+    font-family: arial;
+}
+
+#about {
+    position: absolute;
+    top: 390px;
+    left: 20px;
+    right: 40px;
+    font-family: arial;
+    word-spacing: 5px;
+}
+
+#list {
+    position: absolute;
+    top: 650px;
+    right: 40px;
+    font-family: arial;
+    word-spacing: 5px;
+}
+
+#cv {
+    position: absolute;
+    top: 950px;
+    left: 270px;
+    font-size: 19px;
+    font-family: arial;
+    border-style: solid;
+    border-color: white;
+    padding: 8px;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    position: absolute;
+    top: 1300px;
+    left: 0px;
+    height: 100px;
+    width: 7000px;
+    background-color: deepskyblue;
+}
+
+#foot {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    font-size: 22px;
+    color: white;
+    font-family: monospace;
+    font-weight: 800;
+    letter-spacing: 4px;
+}
+
+#nulp {
+    position: absolute;
+    left: 1000px;
+    color: white;
+    letter-spacing: 3px;
+}

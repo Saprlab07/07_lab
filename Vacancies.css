@@ -1,0 +1,63 @@
+#head {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 120px;
+    width: 7000px;
+    background-color: deepskyblue;
+}
+
+header {
+    position: absolute;
+    left: 90px;
+    top: 50px;
+    font-size: 23px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#info {
+    position: absolute;
+    top: 120px;
+    left: 0px;
+    width: 2000px;
+    height: 500px;
+    font-family: Comic Sans MS;
+    
+}
+
+#IT,#aud,#rest,#dis,#sport,#pr,#med,#agro,#zmi,#strah,#arhit,#obsluh,#tele,#car,#hr,#bank,#market,#manager{
+    width: 500px;
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 17px;
+    letter-spacing: 0.5px;
+}
+
+.IT,.aud,.rest,.dis,.sport,.pr,.med,.agro,.zmi,.strah,.arhit,.obsluh,.tele,.car,.hr,.bank,.market,.manager {
+    text-decoration: none;
+}
+
+
+
+
+#info2 {
+    position: absolute;
+    top: 120px;
+    left: 600px;
+    width: 7000px;
+    font-family: Comic Sans MS;
+}
+
+footer {
+    position: absolute;
+    top: 620px;
+    left: 0px;
+    width: 7000px;
+    height: 300px;
+    background-color: deepskyblue;
+    
+}

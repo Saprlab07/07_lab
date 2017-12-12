@@ -1,0 +1,53 @@
+header {
+    position: absolute;
+    left: 550px;
+    top: 70px;
+    font-size: 38px;
+    color: black;
+    font-family: Comic Sans MS;
+    font-weight: 600;
+}
+
+#head {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 5000px;
+    height: 200px;
+    background-color: wheat
+}
+
+form {
+    position: absolute;
+    left: 0px;
+    top: 200px;
+    background-color: aquamarine;
+    height: 300px;
+    width: 7000px;
+}
+
+#file {
+    position: absolute;
+    left: 500px;
+    top: 80px;
+}
+
+
+#addResume {
+    position: absolute;
+    top: 120px;
+    padding: 8px;
+    font-size: 14px;
+    font-family: monospace;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: darkviolet;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    left: 550px;
+}
+
+
+

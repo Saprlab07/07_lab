@@ -1,0 +1,265 @@
+html {
+    background-color: aliceblue;
+}
+#head {
+   position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 130px;
+    width: 7000px;
+    background-color: deepskyblue;
+
+}
+
+#href1 {
+    position: absolute;
+    left: 1070px;
+    top: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+#reg {
+    position: absolute;
+    top: 30px;
+    left: 1150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 340px;
+    font-family: monospace;
+    font-style: oblique;
+    color: white;
+}
+
+#first{
+    position: absolute;
+    top: 70px;
+    left: 440px;
+    font-size: 17px;
+    font-family: monospace;
+    font-style: oblique;
+    color: white;
+}
+
+#employer {
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    color: white;
+    font-size: 17px;
+    font-style: oblique;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+#IT {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    font-size: 18px;
+    font-family: monospace;
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+#returnCat {
+    position: absolute;
+    top: 155px;
+    left: 170px;
+    font-size: 15px;
+    font-family: monospace;
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+    border-color: lightgray;
+    text-decoration: none;
+    color: black;
+}
+
+#main {
+    position: absolute;
+    top: 155px;
+    left: 420px;
+    font-size: 15px;
+    font-family: monospace;
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+    border-color: lightgray;
+    text-decoration: none;
+    color: black;
+}
+
+#results {
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    width: 700px;
+    height: 2600px;
+    background-color: white;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 5px;
+}
+
+form {
+    position: absolute;
+    left: 30px;
+    right: 30px;
+}
+
+#link {
+    text-decoration: none;
+    color: blue;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+#company {
+    font-size: 15px;
+    color: gray;
+    font-style: oblique;
+}
+
+#description {
+    font-family: monospace;
+    font-size: 14px;
+}
+
+#img1 {
+    position: absolute;
+    top: 290px;
+    right: 10px;
+    
+}
+
+#img2 {
+    position: absolute;
+    top: 480px;
+    right: 10px; 
+}
+
+#img3 {
+    position: absolute;
+    top: 930px;
+    right: 10px; 
+}
+
+#mainCompanies {
+    font-size: 24px;
+    position: absolute;
+    font-family: monospace;
+    color: gray;
+    letter-spacing: 1px;
+    font-family: sans-serif
+}
+
+#img4 {
+    position: absolute;
+    top: 1430px;
+    left: 30px
+}
+
+#img5 {
+    position: absolute;
+    top: 1440px;
+    left: 130px;
+    
+}
+
+#img6 {
+    position: absolute;
+    top: 1440px;
+    left: 270px;    
+}
+#img6 {
+    position: absolute;
+    top: 1440px;
+    left: 280px;    
+}
+#img7 {
+    position: absolute;
+    top: 1445px;
+    left: 410px;    
+}
+#img8 {
+    position: absolute;
+    top: 1435px;
+    left: 540px;  
+}
+#img9 {
+    position: absolute;
+    top: 1980px;
+    left: 540px;  
+}
+#img10{
+    position: absolute;
+    top: 2230px;
+    left: 540px;  
+}
+#img11{
+    position: absolute;
+    top: 2430px;
+    left: 540px;  
+}
+
+footer{
+    position: absolute;
+    top: 2900px;
+    left: 0px;
+    height: 100px;
+    width: 7000px;
+    background-color: deepskyblue;
+    
+}
+
+#foot {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    font-size: 22px;
+    color: white;
+    font-family: monospace;
+    font-weight: 800;
+    letter-spacing: 4px;
+}
+
+#nulp {
+    position: absolute;
+    left: 1000px;
+    color: white;
+    letter-spacing: 3px;
+}
+
+
+
+
+
